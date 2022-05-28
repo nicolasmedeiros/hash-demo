@@ -2,4 +2,4 @@
 
 Voy a actualizar el readme con esta oracion. 
 
-Voy a actualizar el readme desde la interfaz de github para luego hacer un pull en mi intellij y bajar estos cambios.
+Voy a CHAU actualizar el readme desde la interfaz de github para luego hacer un pull en mi intellij y bajar estos cambios.
